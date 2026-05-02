@@ -1,7 +1,9 @@
+![header](./assets/github-header.png)
+
 ## ✨ EXPERIENCES
 
 - ⚡ 코드잇 AI 엔지니어 부트캠프 2기 | 2025
-- 💼 (주)마크클라우드 AI-Engineer | 2026.03 ~ Present
+- 💼 (주)마크클라우드 AI-Engineer Intern | 2026.03 ~ Present
 
 
 ## 🎯 Projects
